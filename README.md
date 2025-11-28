@@ -2,6 +2,38 @@
 *A complete UX architecture for next-generation AI platforms (ChatGPT, Grok, Claude, Gemini, LLaMA)*  
 Designed by **VikingFlowAI** – 2025
 
+👤 About the creator
+
+I want to be very clear:
+
+I’m not a developer.
+I work at a warehouse in Sweden, and everything here is created purely from a user’s perspective.
+
+Between November 2 and November 16, 2025, I tried to solve the biggest frustration I have with modern AI systems:
+they are not user-friendly for long-term projects.
+
+So the ideas in this project —
+Manual Context Linking, Continuous Mode, Pods, ReScroll, TSIS, GuessGuard —
+all come from UX intuition, not technical knowledge.
+
+I don’t write code.
+I don’t know how to implement these things.
+These are ideas only.
+
+This project is just my attempt to design something
+I wish existed as a user.
+
+If developers think the ideas are useful, I’m happy.
+If not, that’s perfectly fine too — I’m just sharing what I would want as a user.
+
+
+---
+
+☕ Support (optional)
+
+If you want to support my work or ideas, you can do so here:
+👉 https://ko-fi.com/vikingflowai
+
 ---
 
 ## 🌍 Overview
